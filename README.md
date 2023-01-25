@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeevanreddy1999
-- 👀 I’m interested in both Frontend && Backend and Iam a Full Stack Developer.
+- 👀 I’m a Full Stack Developer.
 - 🌱 I’m currently building my portfolio website and my blog.
 - 💞️ I’m looking to collaborate on any projects you have in mind. 
 - 📫 Reach me at jeevanreddy1999@gmail.com
