@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeevanreddy1999
+- 👋 Hi, I’m Jeevan Karnati.
 - 👀 I’m a Full Stack Developer.
 - 🌱 Check out my portfolio at https://jeevan-karnati.vercel.app/
 - 💞️ I’m looking to collaborate on any projects you have in mind. 
